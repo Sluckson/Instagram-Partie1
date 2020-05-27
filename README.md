@@ -36,7 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
-https://media.giphy.com/media/dvatEpCXV3hqRXaOJZ/giphy.gif
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
