@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
-
+https://media.giphy.com/media/dvatEpCXV3hqRXaOJZ/giphy.gif
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
