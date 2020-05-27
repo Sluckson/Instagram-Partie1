@@ -1,3 +1,4 @@
+
 # Project 3 - *Instagram Clone*
 
 **Instagram CLone** is a photo sharing app similar to Instagram but using Parse as its backend.
@@ -37,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://media.giphy.com/media/dvatEpCXV3hqRXaOJZ/giphy.gif" alt="Girl in a jacket" width="500" height="600">
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
