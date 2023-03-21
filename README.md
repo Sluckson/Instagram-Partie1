@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-
+'''
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
@@ -36,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
-
+'''
 <img src="https://media.giphy.com/media/dvatEpCXV3hqRXaOJZ/giphy.gif" alt="Girl in a jacket" width="200" height="300">
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
